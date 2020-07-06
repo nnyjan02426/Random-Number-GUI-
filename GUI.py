@@ -1,7 +1,6 @@
 import random
 import tkinter as tk
 from tkinter import ttk
-from tkinter import messagebox
 
 window = tk.Tk()
 window.title('抽籤')
